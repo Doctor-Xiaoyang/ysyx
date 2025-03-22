@@ -1,5 +1,5 @@
 STUID = 100014075
-STUNAME = 骁阳
+STUNAME = 戚骁阳
 
 # DO NOT modify the following code!!!
 
